@@ -1,5 +1,5 @@
-conda create -n ds
-conda activate ds
+conda create -n dreamsim
+conda activate dreamsim
 conda install pip # verify with the `which pip` command
 python setup.py build
 pyton setup.py install
